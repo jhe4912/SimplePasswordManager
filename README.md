@@ -2,7 +2,7 @@
 A project. Not a actual password manager you should rely on.
 
 How to setup and test:
--	Obtain and extract “SimplePasswordManager.zip”. The zip file can be found through Canvas submission or the release page on GitHub (https://github.com/jhe4912/SimplePasswordManager/releases/tag/Release)
+-	Obtain and extract “SimplePasswordManager.zip”. The zip file can be found through the release page on GitHub (https://github.com/jhe4912/SimplePasswordManager/releases/tag/Release)
     -	Extracted contents should be a folder holding SimplePasswordManager.jar, windows_start.bat, and windows_start_with_debug.bat.
 -	Starting the program:
     -	For Windows:
